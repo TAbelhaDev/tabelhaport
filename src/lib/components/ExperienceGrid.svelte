@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Timeline } from '@tabeladev/tabelawebui';
+	import { Timeline } from '@tabelhadev/tabelhawebui';
 	import type { Experience } from '$lib/interfaces/experience';
 	import * as m from '$lib/paraglide/messages';
 

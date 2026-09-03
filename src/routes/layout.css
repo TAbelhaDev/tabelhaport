@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap');
-@import '@tabeladev/tabelawebui/theme.css';
+@import '@tabelhadev/tabelhawebui/theme.css';
 @import 'tailwindcss';
 
 /*
  * Design system: "reading someone's source file" — an annotated notebook, not a terminal.
- * Todos os tokens de cor/tipo vêm do @tabeladev/tabelawebui (Catppuccin Latte/Mocha, accent
+ * Todos os tokens de cor/tipo vêm do @tabelhadev/tabelhawebui (Catppuccin Latte/Mocha, accent
  * nunca azul). Aqui só mapeamos os tokens --twui-* pros utilitários do Tailwind
  * (--color-*/
 --font-*). Tema escuro, defaults de body, selection, focus e

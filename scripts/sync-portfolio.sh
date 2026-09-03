@@ -123,13 +123,13 @@ fs.writeFileSync(out, JSON.stringify(src, null, '\t') + '\n');
 EOF
 
 # wrangler.jsonc: herda a config do template, mantém o nome do projeto
-sed -e 's/"name": "tabelaport"/"name": "'"$PORT_NAME"'"/' "$TPL_DIR/wrangler.jsonc" > "$PORTFOLIO_DIR/wrangler.jsonc"
+sed -e 's/"name": "tabelhaport"/"name": "'"$PORT_NAME"'"/' "$TPL_DIR/wrangler.jsonc" > "$PORTFOLIO_DIR/wrangler.jsonc"
 
 cd "$PORTFOLIO_DIR"
 bun install
 
 if [ "$MODE" = "sync" ]; then
-	echo "Sync OK — código do tabelaport copiado, dados da instância preservados."
+	echo "Sync OK — código do tabelhaport copiado, dados da instância preservados."
 	exit 0
 fi
 

@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { TabCard, Divider, Eyebrow, BracketLink } from '@tabeladev/tabelawebui';
+	import { TabCard, Divider, Eyebrow, BracketLink } from '@tabelhadev/tabelhawebui';
 	import photo from '$lib/assets/photo.svg';
 	import { Download, Github, Linkedin, Mail, Phone } from 'lucide-svelte';
 	import { getLocaleData } from '$lib/data/paraglide-adapter';

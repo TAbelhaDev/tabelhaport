@@ -1,5 +1,5 @@
 {
-	"name": "tabelaport",
+	"name": "tabelhaport",
 	"private": true,
 	"version": "0.3.0",
 	"type": "module",
@@ -42,7 +42,7 @@
 		"wrangler": "^4.105.0"
 	},
 	"dependencies": {
-		"@tabeladev/tabelawebui": "^0.20.0",
+		"@tabelhadev/tabelhawebui": "^0.28.4",
 		"lucide-svelte": "^0.562.0"
 	}
 }
