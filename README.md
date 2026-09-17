@@ -1,10 +1,10 @@
 <div align="center">
 
-# TabelaPort
+# TAbelhaPort
 
 A SvelteKit portfolio template with a **data-driven** approach: every section,
 entry and text lives in JSON files under `src/lib/data/`, so you fill in your
-own info and ship. Powered by the [TabelaWebUI](https://github.com/TAbelhaDev/tabelawebui)
+own info and ship. Powered by the [TabelaWebUI](https://github.com/TAbelhaDev/tabelhawebui)
 design system (Catppuccin Latte/Mocha, "reading someone's source file" aesthetic),
 multi-language (PT-BR/EN) via [Paraglide](https://inlang.com/), and deployable to
 Cloudflare Workers in minutes.
@@ -14,7 +14,7 @@ Cloudflare Workers in minutes.
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)](https://kit.svelte.dev)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange?style=flat-square&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](LICENSE)
-[![Built with tabelawebui](https://img.shields.io/badge/theme-tabelawebui-d6b4f7?style=flat-square)](https://github.com/TAbelhaDev/tabelawebui)
+[![Built with tabelhawebui](https://img.shields.io/badge/theme-tabelhawebui-d6b4f7?style=flat-square)](https://github.com/TAbelhaDev/tabelhawebui)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ianptkcs)
 

@@ -1,11 +1,11 @@
 <div align="center">
 
-# TabelaPort
+# TAbelhaPort
 
 Um template de portfolio em SvelteKit com abordagem **data-driven**: cada seção,
 entrada e texto vive em arquivos JSON dentro de `src/lib/data/`, então você
 preenche com as suas informações e publica. Movido pelo design system
-[TabelaWebUI](https://github.com/TAbelhaDev/tabelawebui) (Catppuccin Latte/Mocha,
+[TabelaWebUI](https://github.com/TAbelhaDev/tabelhawebui) (Catppuccin Latte/Mocha,
 estética "reading someone's source file"), multi-idioma (PT-BR/EN) via
 [Paraglide](https://inlang.com/), e deployável no Cloudflare Workers em minutos.
 
@@ -14,7 +14,7 @@ estética "reading someone's source file"), multi-idioma (PT-BR/EN) via
 [![SvelteKit](https://img.shields.io/badge/SvelteKit-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white)](https://kit.svelte.dev)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange?style=flat-square&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](LICENSE)
-[![Built with tabelawebui](https://img.shields.io/badge/theme-tabelawebui-d6b4f7?style=flat-square)](https://github.com/TAbelhaDev/tabelawebui)
+[![Built with tabelhawebui](https://img.shields.io/badge/theme-tabelhawebui-d6b4f7?style=flat-square)](https://github.com/TAbelhaDev/tabelhawebui)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ianptkcs)
 

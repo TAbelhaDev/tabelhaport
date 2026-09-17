@@ -1,6 +1,6 @@
-# TabelaPort — guide for agents working on this repo
+# TAbelhaPort — guide for agents working on this repo
 
-TabelaPort is a **data-driven portfolio template**. The structure is generic;
+TAbelhaPort is a **data-driven portfolio template**. The structure is generic;
 every piece of personal content lives in JSON. This file orients agents so they
 don't invent parallel structures.
 
@@ -25,9 +25,9 @@ don't invent parallel structures.
   first, then wire the UI to read it.
 - **Sections come from `sections.ts`**: don't hardcode nav routes in components.
   Adding a section = one entry in `sections.ts` + a `data/<feature>/` folder.
-- **Design system is TabelaWebUI**: reuse components from the `tabelawebui`
+- **Design system is TabelaWebUI**: reuse components from the `tabelhawebui`
   package. If something is missing, open a feature request in the TabelaWebUI
-  repo (`~/codigo/tabeladev/tabelawebui/requests/`) instead of writing parallel
+  repo (`~/codigo/tabeladev/tabelhawebui/requests/`) instead of writing parallel
   CSS.
 - **i18n keys**: nav labels are `nav_<sectionKey>`; add/remove translations in
   both `messages/en.json` and `messages/pt-br.json`.
